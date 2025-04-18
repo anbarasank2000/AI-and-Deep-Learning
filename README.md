@@ -24,14 +24,7 @@ This repository is a collection of image classification projects completed for *
 ├── assignment3
 │   ├── rnn_captioning.py
 │   └── word_embedding.py
-├── data
-│   └── cifar-10-batches-py/
-├── results
-│   └── plots/
-├── models
-├── utils
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
