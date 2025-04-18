@@ -1,8 +1,7 @@
 # ENPM703: Image Classification Projects
 
-![CIFAR-10](https://raw.githubusercontent.com/kuangliu/pytorch-cifar/master/img/cifar10.png)
 
-This repository is a collection of image classification projects completed for **ENPM703: Advanced Machine Learning** at the University of Maryland. It includes a range of machine learning and deep learning approaches applied to the **CIFAR-10** dataset, starting from classical methods like KNN and SVM to deep neural networks implemented manually and using PyTorch.
+This repository is a collection of image classification projects completed for **ENPM703: AI and Deep Learning** at the University of Maryland. It includes a range of machine learning and deep learning approaches applied to the **CIFAR-10** dataset, starting from classical methods like KNN and SVM to deep neural networks implemented manually and using PyTorch.
 
 ---
 
@@ -146,11 +145,3 @@ This repository is a collection of image classification projects completed for *
 
 - Prof. George Zaki for course content and guidance.
 - CIFAR-10 dataset by Alex Krizhevsky.
-- PyTorch for powerful model building tools.
-
----
-
-## 🎓 License
-
-This repository is intended for educational purposes. Feel free to fork and extend the project!
-
