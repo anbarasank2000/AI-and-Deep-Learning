@@ -1,4 +1,4 @@
-# ENPM703: Image Classification Projects
+# ENPM703: Image Classification
 
 
 This repository is a collection of image classification projects completed for **ENPM703: AI and Deep Learning** at the University of Maryland. It includes a range of machine learning and deep learning approaches applied to the **CIFAR-10** dataset, starting from classical methods like KNN and SVM to deep neural networks implemented manually and using PyTorch.
